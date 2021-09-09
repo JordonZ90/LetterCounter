@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.exe
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.deps.json
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.dll
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\ref\LetterCounter.dll
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\bin\Debug\net5.0\LetterCounter.pdb
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.csproj.AssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.dll
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\ref\LetterCounter.dll
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.pdb
+C:\Users\User-Ryzen\Desktop\C#Practice\LetterCounter\LetterCounter\LetterCounter\obj\Debug\net5.0\LetterCounter.genruntimeconfig.cache
