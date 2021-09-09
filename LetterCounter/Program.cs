@@ -6,6 +6,11 @@ namespace LetterCounter
     {
         static void Main(string[] args)
         {
+            LetterCounter();
+        }
+
+        public static void LetterCounter()
+        {
             Console.WriteLine("Please enter your message ");
             string userInput = Console.ReadLine().ToLower();
 
@@ -19,8 +24,9 @@ namespace LetterCounter
                 {
                     count++;
                 }
+
             }
-            Console.WriteLine($"The letter '{userLetter}' occurs {count} times.");
+            Console.WriteLine($"The letter '{userLetter}' occurs {count} times.");      
         }
     }
 }
